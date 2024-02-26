@@ -9,6 +9,8 @@ This project is a dummy project to get an idea of a new hire's skillset.
 - State Management
 - Localization
 
+Only remaining thing is responsive nav bar
+
 ### If you're not using a build tool:
 
 1. Clone this repository to your local machine.
