@@ -20,7 +20,7 @@ This project is a dummy project to get an idea of a new hire's skillset.
 1. Clone this repository to your local machine.
 2. Open a terminal and navigate to the project directory.
 3. Run `npm install` to install dependencies.
-4. Run `npm run serve` to serve the project.
+4. Run `npm run dev` to serve the project.
 5. Open your web browser and navigate to the provided URL to view the website.
 
 # Vue 3 + TypeScript + Vite
